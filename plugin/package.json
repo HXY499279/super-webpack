@@ -1,0 +1,36 @@
+{
+  "name": "plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tapable.test.js",
+  "dependencies": {
+    "array-union": "^3.0.1",
+    "braces": "^3.0.2",
+    "dir-glob": "^3.0.1",
+    "fast-glob": "^3.2.7",
+    "fastq": "^1.13.0",
+    "fill-range": "^7.0.1",
+    "glob-parent": "^5.1.2",
+    "ignore": "^5.1.8",
+    "is-extglob": "^2.1.1",
+    "is-glob": "^4.0.3",
+    "is-number": "^7.0.0",
+    "merge2": "^1.4.1",
+    "micromatch": "^4.0.4",
+    "path-type": "^4.0.0",
+    "picomatch": "^2.3.0",
+    "queue-microtask": "^1.2.3",
+    "reusify": "^1.0.4",
+    "run-parallel": "^1.2.0",
+    "slash": "^4.0.0",
+    "to-regex-range": "^5.0.1"
+  },
+  "devDependencies": {
+    "globby": "^12.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
